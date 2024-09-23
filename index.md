@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog: It is Great
+title: Welcome to my blog- It is Great
 ---
 
